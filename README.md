@@ -1,6 +1,10 @@
 # File Integrity System
 
-A secure file upload and integrity verification system using SHA-256 hashing. This project ensures every uploaded file stays completely safe and unchanged by automatically checking file integrity.
+A secure file upload and integrity verification system using SHA-256 hashing. This project ensures every uploaded file stays completely safe and unchanged by automatically checking file integrity.## Contribution
+
+This project was developed as a team project.  
+I contributed to backend development, database integration and documentation improvements.
+
 
 ## Features
 
